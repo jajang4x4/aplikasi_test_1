@@ -1,17 +1,43 @@
-# aplikasi_tes_1
+# 🍔 Food Online App
 
-A new Flutter project.
+Aplikasi seluler dan web pemesanan makanan (*Food Delivery*) interaktif berbasis **Flutter**. Aplikasi ini dirancang dengan antarmuka yang modern, responsif, dan kaya fitur untuk memudahkan pengguna mencari restoran lokal, memilih kategori makanan, hingga melacak pesanan dengan mudah.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Utama
+- **Onboarding & Authentication:** Halaman perkenalan aplikasi serta fitur *Sign In* yang bersih dan intuitif.
+- **Auto-sliding Banner:** Banner promosi utama di halaman beranda yang bergeser secara otomatis.
+- **Dynamic Food Categories:** Galeri kategori makanan interaktif berbentuk gambar melingkar (Burger, Pizza, Noodles, dll).
+- **Featured Partners:** Daftar restoran mitra pilihan lengkap dengan informasi rating, waktu pengiriman, dan layanan antar gratis.
+- **Bottom Navigation Bar:** Navigasi bawah untuk beralih antar halaman (Home, Search, Orders, Profile).
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📸 Tampilan Aplikasi (*Screenshots*)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Berikut adalah beberapa cuplikan tampilan dari aplikasi **Food Online**:
+
+| Halaman Onboarding | Halaman Sign In | Beranda & Banner |
+| :---: | :---: | :---: |
+| ![Hasil 1](screenshots/hasil_1.png) | ![Hasil 2](screenshots/hasil_2.png) | ![Hasil 3](screenshots/hasil_3.png) |
+
+| Kategori & Partner | Detail Restoran |
+| :---: | :---: |
+| ![Hasil 4](screenshots/hasil_4.png) | ![Hasil 5](screenshots/hasil_5.png) |
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+- **Framework:** Flutter (Dart)
+- **Platform Target:** Android, iOS, Web (Chrome), & Desktop (Windows)
+- **State Management:** StatefulWidget & PageController
+- **Package Pendukung:** `async` (untuk pengatur waktu banner otomatis)
+
+---
+
+## 🚀 Cara Menjalankan Project
+
+1. Pastikan Flutter SDK sudah terinstal di komputer Anda.
+2. Clone repository ini:
+   ```bash
+   git clone [https://github.com/username-abang/aplikasi-food-online.git](https://github.com/username-abang/aplikasi-food-online.git)
