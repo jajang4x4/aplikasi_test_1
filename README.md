@@ -17,11 +17,11 @@ Aplikasi seluler dan web pemesanan makanan (*Food Delivery*) interaktif berbasis
 
 Berikut adalah beberapa cuplikan tampilan dari aplikasi **Food Online**:
 
-| Halaman Onboarding | Halaman Sign In | Beranda & Banner |
+| Halaman Onboarding | Halaman Sign In | Lokasi |
 | :---: | :---: | :---: |
 | ![Hasil 1](screenshooot/hasil_1.png) | ![Hasil 2](screenshooot/hasil_2.png) | ![Hasil 3](screenshooot/hasil_3.png) |
 
-| Kategori & Partner | Detail Restoran |
+| Kategori | Menu |
 | :---: | :---: |
 | ![Hasil 4](screenshooot/hasil_4.png) | ![Hasil 5](screenshooot/hasil_5.png) |
 
