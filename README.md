@@ -19,11 +19,11 @@ Berikut adalah beberapa cuplikan tampilan dari aplikasi **Food Online**:
 
 | Halaman Onboarding | Halaman Sign In | Beranda & Banner |
 | :---: | :---: | :---: |
-| ![Hasil 1](screenshots/hasil_1.png) | ![Hasil 2](screenshots/hasil_2.png) | ![Hasil 3](screenshots/hasil_3.png) |
+| ![Hasil 1](screenshooot/hasil_1.png) | ![Hasil 2](screenshooot/hasil_2.png) | ![Hasil 3](screenshooot/hasil_3.png) |
 
 | Kategori & Partner | Detail Restoran |
 | :---: | :---: |
-| ![Hasil 4](screenshots/hasil_4.png) | ![Hasil 5](screenshots/hasil_5.png) |
+| ![Hasil 4](screenshooot/hasil_4.png) | ![Hasil 5](screenshooot/hasil_5.png) |
 
 ---
 
